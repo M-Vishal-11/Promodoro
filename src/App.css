@@ -1,0 +1,50 @@
+body{
+  background-color: rgb(0, 255, 255);
+}
+.title-container{
+  display:flex;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  color:rgb(252, 2, 52);
+  font-size:larger;
+}
+
+.title{
+  padding: 30px;
+  text-align:center;
+  margin: auto;
+}
+
+.promo-container{
+  display:flex;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  border: solid 5px black;
+}
+
+.promo{
+  margin: auto;
+  font-weight: bolder;
+  font-size: 30vh;
+}
+
+.btn-container{
+  display:flex;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  padding:20px;
+}
+.btn{
+  width:50%;
+  height:3hv;
+  padding: 20px;
+}
+
