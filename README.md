@@ -1,8 +1,3 @@
-# React + Vite
+# Promodoro App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made a simple frontend promodoro timer⏱️ with reactjs and css. It consist of timer with start🟢 and stop🛑 button. If start button is clicked, the timer will run backwards🔙 from 25:00 and stops at 0:00 and again process continue if start button is clicked and user can stop🛑 the timer at any time the user wants.
